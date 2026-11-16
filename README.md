@@ -35,7 +35,7 @@ AI doesn't fail at drawings because it's bad at construction. It fails because i
 Copy the skill folder into your skills directory:
 
 ```bash
-git clone https://github.com/<your-account>/claude-construction-drawing-skill.git
+git clone https://github.com/Gulenoor-Khalid/claude-construction-drawing-skill.git
 ```
 
 Then copy `construction-drawing-takeoff/` to `~/.claude/skills/` (all projects) or `.claude/skills/` inside one project.
