@@ -1,0 +1,6 @@
+item,min,max,unit,clause
+Office 104 floor area,90,,m2,Brief 2.1 (min. 90 m2)
+External wall thickness,200,300,mm,Spec 4.2.1
+Door clear width,850,,mm,Part M table 2
+Office 104 doors,3,,nr,Fire strategy 5.4
+Office 104 length,12.5,,m,Brief 2.1

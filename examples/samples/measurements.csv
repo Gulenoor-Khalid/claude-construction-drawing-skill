@@ -1,0 +1,6 @@
+item,value,unit,source
+Office 104 floor area,91.58,m2,Measured: hatch on A-AREA (sample_plan.dxf)
+External wall thickness,0.2,m,Measured: offset between A-WALL faces
+Door clear width,900,mm,Model quantity: Qto_DoorBaseQuantities.Width
+Office 104 doors,3,nr,Measured: 3 x DOOR_900 block inserts
+Office 104 length,12450,mm,Measured: wall W-3 outer face
